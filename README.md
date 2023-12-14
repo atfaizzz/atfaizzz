@@ -27,4 +27,4 @@ I'm diving deep into the world of Data Science 📊. Mastering advanced Python f
 
 ## 📫 Let's Connect!
 
-- [LinkedIn]([https://www.linkedin.com/in/mohammad-faiz-abid-875371194/)
+- [LinkedIn](https://www.linkedin.com/in/mohammad-faiz-abid-875371194)
